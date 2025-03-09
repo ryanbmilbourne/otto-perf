@@ -31,7 +31,7 @@ Coming soon:
 ```bash
 # Clone the repository
 git clone https://github.com/ryanbmilbourne/otto-perf.git
-cd warriorperformance
+cd otto-perf
 
 # Build the takeoff CLI tool
 go build -o takeoff ./cmd/takeoff
